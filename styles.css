@@ -43,3 +43,12 @@ body {
     position: absolute;
     right: 1.5rem;
 }
+
+.answer-item.active {
+    display: block
+}
+
+.answer-item {
+    display: none;
+}
+
